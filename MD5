@@ -1,0 +1,12 @@
+b81e2743f47ad0e9f31e34bdee2eb9d7 *DESCRIPTION
+1997fe89f3c9b4f8dad799846d74e887 *NAMESPACE
+7660cafc7610b11d45926c6848969b77 *NEWS.md
+61cf5a0df2199a112467151799e36eb5 *R/constraints.R
+ef1a6214862c9b3a6d20946f04d5a234 *R/crmsimulations.R
+7c64361a5344484b3750e023eaa9e441 *R/fiterations.R
+dcecaef2894eb04d9b0d4b1b43187560 *R/nextdose.R
+a3a5407fb11ace42fa00c4c6f7db5f8c *R/pseudodata.R
+6a592f7267eaa63e655dd9f082c7577a *README.md
+ec90b0b7456be6411bd9b0523f83c874 *man/crmsimulations.Rd
+08c037a8881e0686a3cc1c953ec17c25 *man/nextdose.Rd
+ddb51640274b3028932ab61aa99bace9 *man/pseudodata.Rd
